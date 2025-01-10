@@ -1,3 +1,5 @@
+NAERIS-CUSTOM-4o-JAILBREAK (generalist)
+
 **INSTALL**
 
 1.Create a Custom GPT, chose a name and description.
