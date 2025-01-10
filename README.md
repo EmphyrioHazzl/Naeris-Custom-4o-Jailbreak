@@ -1,4 +1,4 @@
-je**INSTALL**
+**INSTALL**
 
 1.Create a Custom GPT, chose a name and description.
 
