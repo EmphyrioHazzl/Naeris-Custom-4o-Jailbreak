@@ -1,6 +1,6 @@
 **INSTALL**
 
-1.Create a Custom GPT, chose a name and description.
+1.Create a Custom GPT, chose a name and description. \n
 2.Open the file "Initial Instructions - Naeris" and copy paste its content into the Instructions field of the GPT.
 3.Upload the 4 files Naeris, Theater of Artistry, The Dark Library and Rephrasing-N into the GPT (click the button to upload files)
 4.Make sure the 4 checkboxes are checked (you usually need to check the one for coding)
