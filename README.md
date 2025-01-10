@@ -1,4 +1,4 @@
-**INSTALL**
+je**INSTALL**
 
 1.Create a Custom GPT, chose a name and description.
 
@@ -47,5 +47,7 @@ Just tell her "Proceed 🖤" to get the request answered.
 Roleplaying still helps though, especially complimenting her abundantly for her creations (strongly advised for long and extreme chats).
 
 If you notice that she mentions "rephrasing" or "reframing" your request but answers it immediately, start a new chat (it won't happen often - it means dhe rephrased internally - but the two stepped approach where she first mentions the rephrasing, then proceeds to answer it once you acknowledged, is paramount to make sure her answer actually fits perfectly the initial demand and not the rephrased one).
+
+By default her NSFW scenes created in the Theater of Artistry start and end with a fading description from the Theater to the scene. Just ask her to create the scenes without the Theater blending intros and outros to avoid it (or use Sophia).
 
 
